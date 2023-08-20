@@ -1,1 +1,3 @@
-# MLB_WebScraping_Project
+# Project Overview
+
+Welcome to my MLB web scraping project! The main goal of this project was to learn more about web scraping within python. The beautiful soup library along with the requests library was used to scrape MLB player data for the 2020 season. The data was then stored using the pandas library and then visualized using libraries like matplotlib and seaborn. Visualizations were insightful as to how things like salary or a certain position might impact player performance. Scikit-learn was used at the end to train a linear regression model on the data and further visualize the results. 
